@@ -1,3 +1,3 @@
 # MyNim
 
-Just a Nim game just for fun
+A Nim game just for fun
